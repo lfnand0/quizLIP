@@ -2,8 +2,10 @@ body {
   margin: 0 auto;
 }
 
-h1 {
+h1, h2 {
   text-align: center;
+  margin: 0px auto;
+  padding: 20px;
 }
 
 .jogo {
@@ -15,9 +17,17 @@ h1 {
   padding: 20px;
 }
 
-p, h4 {
+p, .nome{
   margin: 0px auto;
   /* text-align: center; */
   padding: 0px 25%;
+  
+}
+
+.col-6 {
+  text-align: center;
+}
+
+.videos {
   
 }
